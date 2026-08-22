@@ -1,0 +1,33 @@
+{
+  "name": "Comaland 100% (Bigflower)",
+  "author": "Mirage",
+  "released": 2015,
+  "csdb": "https://csdb.dk/release/?id=139278",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "name": "Owl animation",
+      "description": "The owl also has a two-frame animation made from two multicolor sprites.",
+      "role": "sprite",
+      "animation": {
+        "durationMs": 100,
+        "frames": [
+          {
+            "file": "animation-owl-frame-01.png",
+            "durationMs": 1800
+          },
+          "animation-owl-frame-02.png",
+          "animation-owl-frame-03.png",
+          "animation-owl-frame-02.png"
+        ]
+      }
+    }
+  ]
+}

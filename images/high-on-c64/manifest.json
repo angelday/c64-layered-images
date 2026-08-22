@@ -1,0 +1,31 @@
+{
+  "name": "High on C64",
+  "author": "Sulevi",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=263403",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Hires bitmap"
+    },
+    {
+      "file": "raster-lines.png",
+      "name": "Raster-lines",
+      "role": "data"
+    },
+    {
+      "file": "sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

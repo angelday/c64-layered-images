@@ -1,0 +1,22 @@
+{
+  "name": "Commodore 64 Is Always Ready",
+  "author": "Commodore",
+  "released": 1982,
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "name": "BASIC cursor",
+      "description": "The 8×8 solid cursor cell blinks every 16 PAL jiffies (320 ms).",
+      "animation": {
+        "durationMs": 320,
+        "frames": [
+          "animation-basic-cursor-frame-01.png",
+          "animation-basic-cursor-frame-02.png"
+        ]
+      }
+    }
+  ]
+}

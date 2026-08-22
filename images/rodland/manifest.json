@@ -1,0 +1,49 @@
+{
+  "name": "Rod-land (alt. title screen)",
+  "author": "angelday",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=260227",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap",
+      "description": "The updated background restores 8 lines from the original 16-bit artwork and adds alternate shading based on the leaf graphics from the first levels. It also recreates the Rin and Tin character sidebar from the Amiga 500 version."
+    },
+    {
+      "name": "Rod-land logo",
+      "description": "Seven complete frames written directly to multicolor bitmap reproduce the original 16-bit systems logo animation.",
+      "animation": {
+        "durationMs": 320,
+        "frames": [
+          "animation-rodland-logo-frame-01.png",
+          "animation-rodland-logo-frame-02.png",
+          "animation-rodland-logo-frame-03.png",
+          "animation-rodland-logo-frame-04.png",
+          "animation-rodland-logo-frame-05.png",
+          "animation-rodland-logo-frame-06.png",
+          "animation-rodland-logo-frame-07.png"
+        ]
+      }
+    },
+    {
+      "file": "sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    },
+    {
+      "file": "reference-original.png",
+      "name": "C64 Original",
+      "role": "overlay",
+      "description": "Reference capture of the original C64 title screen. The original artwork was created by Robert Whitaker in 1991."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Uncle Agnus McFungus",
+  "author": "Duce",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=260473",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Hires bitmap"
+    },
+    {
+      "file": "border-sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Scramble Infinity",
+  "author": "Mirage",
+  "released": 2021,
+  "csdb": "https://csdb.dk/release/?id=212252",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "file": "border-sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

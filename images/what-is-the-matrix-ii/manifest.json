@@ -1,0 +1,43 @@
+{
+  "name": "What Is the Matrix II (title screen)",
+  "author": "Talent",
+  "released": 2024,
+  "csdb": "https://csdb.dk/release/?id=247796",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap",
+      "description": "The first raster line is technically black because of the way the demo builds the image in hardware. The affected pixels have been restored to dark gray to show the original multicolor image."
+    },
+    {
+      "name": "Eyes animation",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-eyes-frame-01.png",
+            "durationMs": 1600
+          },
+          {
+            "file": "animation-eyes-frame-02.png",
+            "durationMs": 200
+          }
+        ]
+      },
+      "description": "The two-frame animation is written directly into the multicolor bitmap."
+    },
+    {
+      "file": "sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

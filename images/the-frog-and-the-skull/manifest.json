@@ -1,0 +1,31 @@
+{
+  "name": "The Frog and the Skull",
+  "author": "Sulevi",
+  "released": 2025,
+  "csdb": "https://csdb.dk/release/?id=249683",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "file": "raster-lines.png",
+      "name": "Raster-lines",
+      "role": "data"
+    },
+    {
+      "file": "sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Organic, you say?",
+  "author": "Mermaid",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=259041",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap-background.png",
+      "name": "Hires bitmap background"
+    },
+    {
+      "file": "sprite-below.png",
+      "name": "Sprites below",
+      "role": "sprite"
+    },
+    {
+      "file": "bitmap-foreground.png",
+      "name": "Hires bitmap"
+    },
+    {
+      "file": "sprite-above.png",
+      "name": "Sprites above",
+      "role": "sprite"
+    },
+    {
+      "file": "border-sprites.png",
+      "name": "Border sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay",
+      "description": "42 sprite positions and their raster splits. Raster-line markers appear on the left; the right shows where the multiplexer sets up each sprite set. The numbers match the actual sprite assignments in code."
+    },
+    {
+      "file": "reference-original-sketch.png",
+      "name": "Original sketch",
+      "role": "overlay",
+      "description": "Mermaid’s original sketch, arranged so that both characters align pixel-perfectly."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Self portrait",
+  "author": "Electric",
+  "released": 2002,
+  "csdb": "https://csdb.dk/release/?id=6449",
+  "layers": [
+    {
+      "file": "phase-intent.png",
+      "name": "Intent",
+      "role": "phaseIntent",
+      "phaseGroup": "main"
+    },
+    {
+      "file": "phase-b.png",
+      "name": "Phase B",
+      "role": "phaseB",
+      "phaseGroup": "main"
+    },
+    {
+      "file": "phase-a.png",
+      "name": "Phase A",
+      "role": "phaseA",
+      "phaseGroup": "main"
+    }
+  ]
+}

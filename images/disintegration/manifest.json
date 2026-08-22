@@ -1,0 +1,30 @@
+{
+  "name": "Disintegration",
+  "author": "Sulevi",
+  "released": 2025,
+  "csdb": "https://csdb.dk/release/?id=257547",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "file": "raster-lines.png",
+      "name": "Raster-lines"
+    },
+    {
+      "file": "border-sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

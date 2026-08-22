@@ -1,0 +1,105 @@
+{
+  "name": "Zombie Pirate Intro",
+  "author": "Mermaid",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=259773",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "name": "Pants (sprites)",
+      "description": "Two hires sprites animate parts of the pirate’s pants across six frames.",
+      "role": "sprite",
+      "animation": {
+        "durationMs": 80,
+        "frames": [
+          "animation-pants-frame-01.png",
+          "animation-pants-frame-02.png",
+          "animation-pants-frame-03.png",
+          "animation-pants-frame-04.png",
+          "animation-pants-frame-05.png",
+          "animation-pants-frame-06.png"
+        ]
+      }
+    },
+    {
+      "file": "lower-sprites.png",
+      "name": "Sprites",
+      "description": "17 carefully timed multiplexed sprites behind the bitmap layer.",
+      "role": "sprite"
+    },
+    {
+      "name": "G+P logo",
+      "description": "Subtle but visible, the G+P logo uses four sprites to create an interlaced color-flicker animation.",
+      "role": "sprite",
+      "animation": {
+        "durationMs": 20,
+        "frames": [
+          "animation-gp-logo-frame-01.png",
+          "animation-gp-logo-frame-02.png"
+        ]
+      }
+    },
+    {
+      "name": "Hand and doll (sprites)",
+      "description": "Two multicolor sprites behind the hand create the doll’s two-frame animation.",
+      "role": "sprite",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-hand-and-doll-sprites-frame-01.png",
+            "durationMs": 1200
+          },
+          {
+            "file": "animation-hand-and-doll-sprites-frame-02.png",
+            "durationMs": 200
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hires character data",
+      "description": "The artwork uses hires character mode with up to 256 unique characters. The beard and clothes animate across six frames by rewriting selected character tiles.",
+      "animation": {
+        "durationMs": 80,
+        "frames": [
+          "animation-hires-character-data-frame-01.png",
+          "animation-hires-character-data-frame-02.png",
+          "animation-hires-character-data-frame-03.png",
+          "animation-hires-character-data-frame-04.png",
+          "animation-hires-character-data-frame-05.png",
+          "animation-hires-character-data-frame-06.png"
+        ]
+      }
+    },
+    {
+      "name": "Hand and doll (hires character data)",
+      "description": "The doll’s animation changes the character data across two frames.",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-hand-and-doll-character-data-frame-01.png",
+            "durationMs": 1200
+          },
+          {
+            "file": "animation-hand-and-doll-character-data-frame-02.png",
+            "durationMs": 200
+          }
+        ]
+      }
+    },
+    {
+      "file": "upper-sprite.png",
+      "name": "Sprite above character data",
+      "description": "A single sprite sits above the bitmap artwork to form the pirate’s hat.",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}

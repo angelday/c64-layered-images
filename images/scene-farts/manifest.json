@@ -1,0 +1,50 @@
+{
+  "name": "Scene Farts",
+  "author": "Electric",
+  "released": 2020,
+  "csdb": "https://csdb.dk/release/?id=196276",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Bitmap background"
+    },
+    {
+      "file": "sprite-overlay-intent.png",
+      "name": "Sprites",
+      "role": "phaseIntent",
+      "phaseGroup": "main",
+      "description": "The black outlines are approximated by a hires phase-shifted, multiplexed, and X-expanded sprite carpet."
+    },
+    {
+      "file": "sprite-overlay-phase-b.png",
+      "name": "Sprite Overlay — Phase B",
+      "role": "phaseB",
+      "phaseGroup": "main"
+    },
+    {
+      "file": "sprite-overlay-phase-a.png",
+      "name": "Sprite Overlay — Phase A",
+      "role": "phaseA",
+      "phaseGroup": "main"
+    },
+    {
+      "file": "raster-lines.png",
+      "name": "Raster-lines",
+      "role": "sprite"
+    },
+    {
+      "file": "border-sprites.png",
+      "name": "Sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}
