@@ -9,3 +9,9 @@ Every submission must contain:
 - `preview.jpg`, a low-resolution JPEG of the default composition. It uses the first animation frame and the phase-intent composition, and excludes overlays.
 
 Keep asset names lowercase kebab-case. Do not add ZIP files, app-specific thumbnails, or generated build files to an image folder. Releases will package accepted folders as ZIP downloads.
+
+Before opening a pull request, run:
+
+```sh
+scripts/validate-images.sh
+```

@@ -1,0 +1,20 @@
+name: Validate images
+
+on:
+  pull_request:
+    paths:
+      - "images/**"
+      - "scripts/validate-images.sh"
+      - ".github/workflows/validate-images.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate image folders
+        run: scripts/validate-images.sh
