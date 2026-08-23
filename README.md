@@ -8,7 +8,7 @@ The Layered C64 Image Format describes how a C64 artwork is assembled. It record
 
 ### Motivation
 
-The format was created to make it easy to define complex C64 artworks as a set of parts that can be broken down and explained. C64 Graphics Explorer is the first application to implement this specification. We encourage anyone creating C64 artwork to publish it as a layered image, so others can study how it was made.
+The format was created to make it easy to define complex C64 artworks as a set of parts that can be broken down and explained. [C64 Graphics Explorer](https://c64graphicsexplorer.com) is the first application to implement this specification. We encourage anyone creating C64 artwork to publish it as a layered image, so others can study how it was made.
 
 ![Scene Farts by Electric, shown as a C64 draws it: two interlaced phases alternating at 50 Hz](scene-farts-display-2x.gif)
 
@@ -16,7 +16,7 @@ The format was created to make it easy to define complex C64 artworks as a set o
 
 The full [C64 Layered Image Format specification](SPEC.md) lives in this repository. Each folder in `images/` is a self-contained image package written against it. It contains a `manifest.json`, the PNG assets named by that manifest, and a `preview.jpg` showing the artwork's default composition.
 
-This is the canonical collection source. C64 Graphics Explorer may import selected folders into its bundled gallery, but the application does not define the collection.
+This is the canonical collection source. [C64 Graphics Explorer](https://c64graphicsexplorer.com) may import selected folders into its bundled gallery, but the application does not define the collection.
 
 Each image credits its author and, where known, links to its original CSDb release. Artwork is included in good faith for preservation, study, and appreciation; ownership remains with its original authors and rights holders.
 
