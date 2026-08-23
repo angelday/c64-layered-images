@@ -4,7 +4,7 @@ A collection of layered C64 images, with metadata and artwork breakdowns.
 
 ## C64 Layered Image Format
 
-The Layered C64 Image Format describes how a C64 artwork is assembled. It records layers, interlaced phase groups, hardware sprites, border-raster colors, and animation timing so the image can be reconstructed, taken apart, and studied.
+[The Layered C64 Image Format](SPEC.md) describes how a C64 artwork is assembled. It records layers, interlaced phase groups, hardware sprites, border-raster colors, and animation timing so the image can be reconstructed, taken apart, and studied.
 
 ### Motivation
 
