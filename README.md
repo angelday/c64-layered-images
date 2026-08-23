@@ -2,7 +2,7 @@
 
 A collection of layered C64 images, with metadata and artwork breakdowns.
 
-Each folder in `images/` is a self-contained image package written against the [C64 Layered Image Format](https://github.com/angelday/c64-layered-image-format). It contains a `manifest.json`, the PNG assets named by that manifest, and a `preview.jpg` showing the artwork's default composition.
+The [C64 Layered Image Format](SPEC.md) lives in this repository. Each folder in `images/` is a self-contained image package written against it. It contains a `manifest.json`, the PNG assets named by that manifest, and a `preview.jpg` showing the artwork's default composition.
 
 This is the canonical collection source. C64 Graphics Explorer may import selected folders into its bundled gallery, but the application does not define the collection.
 
