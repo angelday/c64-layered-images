@@ -1,0 +1,77 @@
+{
+  "name": "Viva Las Vegas",
+  "author": "Talent",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=264488",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "name": "Blink animation",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-blink-frame-01.png",
+            "durationMs": 2000
+          },
+          {
+            "file": "animation-blink-frame-02.png",
+            "durationMs": 200
+          }
+        ]
+      },
+      "description": "The two-frame animation is written directly into the multicolor bitmap."
+    },
+    {
+      "file": "sprites-top-multicolor.png",
+      "name": "Top multicolor sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-top-x-expanded.png",
+      "name": "Top X-expanded sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-left-multicolor.png",
+      "name": "Left multicolor sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-left-x-expanded.png",
+      "name": "Left X-expanded sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-right-underlay.png",
+      "name": "Right underlay sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-right-overlay.png",
+      "name": "Right overlay sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-bottom-multicolor.png",
+      "name": "Bottom multicolor sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-bottom-x-expanded.png",
+      "name": "Bottom X-expanded sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}
