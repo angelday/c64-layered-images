@@ -1,0 +1,220 @@
+{
+  "name": "Viva Las Vegas (Zoltar)",
+  "author": "Talent",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=264488",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "name": "Wand (multicolor bitmap)",
+      "animation": {
+        "durationMs": 399,
+        "frames": [
+          "animation-wand-bitmap-frame-01.png",
+          "animation-wand-bitmap-frame-02.png",
+          "animation-wand-bitmap-frame-03.png",
+          "animation-wand-bitmap-frame-04.png",
+          "animation-wand-bitmap-frame-05.png",
+          "animation-wand-bitmap-frame-06.png"
+        ]
+      },
+      "description": "The glowing wand tip is written directly into the multicolor bitmap, in step with the wand sprites."
+    },
+    {
+      "name": "Blink animation",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-blink-frame-01.png",
+            "durationMs": 2000
+          },
+          {
+            "file": "animation-blink-frame-02.png",
+            "durationMs": 259
+          }
+        ]
+      },
+      "description": "The two-frame animation is written directly into the multicolor bitmap. In the demo, a pseudo-random table decides when Zoltar blinks."
+    },
+    {
+      "name": "Mouth animation",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 2000
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-01.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-03.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-02.png",
+            "durationMs": 160
+          },
+          {
+            "file": "animation-mouth-frame-04.png",
+            "durationMs": 160
+          }
+        ]
+      },
+      "description": "Four mouth shapes, written directly into the multicolor bitmap, play the talking sequence exactly as the demo does."
+    },
+    {
+      "file": "sprites-top-x-expanded.png",
+      "name": "Top X-expanded sprites",
+      "role": "sprite",
+      "description": "X-expanded hires sprites underneath the multicolor sprites add extra colors to the turban."
+    },
+    {
+      "file": "sprites-top-multicolor.png",
+      "name": "Top multicolor sprites",
+      "role": "sprite",
+      "description": "Every top border sprite is reused for a second row, filling 42 lines of the opened border."
+    },
+    {
+      "name": "Wand (sprites)",
+      "role": "sprite",
+      "animation": {
+        "durationMs": 399,
+        "frames": [
+          "animation-wand-sprites-frame-01.png",
+          "animation-wand-sprites-frame-02.png",
+          "animation-wand-sprites-frame-03.png",
+          "animation-wand-sprites-frame-04.png",
+          "animation-wand-sprites-frame-05.png",
+          "animation-wand-sprites-frame-06.png"
+        ]
+      },
+      "description": "Two multicolor sprites continue the wand tip into the top border."
+    },
+    {
+      "name": "Crystal ball sprites",
+      "role": "sprite",
+      "animation": {
+        "durationMs": 120,
+        "frames": [
+          "animation-crystal-ball-frame-01.png",
+          "animation-crystal-ball-frame-02.png",
+          "animation-crystal-ball-frame-03.png",
+          "animation-crystal-ball-frame-04.png",
+          "animation-crystal-ball-frame-05.png",
+          "animation-crystal-ball-frame-06.png",
+          "animation-crystal-ball-frame-07.png",
+          "animation-crystal-ball-frame-08.png"
+        ]
+      },
+      "description": "Four multicolor sprites animate the swirl inside the crystal ball across eight frames."
+    },
+    {
+      "file": "sprites-bottom-multicolor.png",
+      "name": "Bottom multicolor sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprites-bottom-x-expanded.png",
+      "name": "Bottom X-expanded sprites",
+      "role": "sprite"
+    },
+    {
+      "file": "sprite-markers.png",
+      "name": "Sprite markers",
+      "role": "overlay"
+    }
+  ]
+}
