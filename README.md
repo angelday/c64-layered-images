@@ -20,6 +20,10 @@ This is the canonical collection source. [C64 Graphics Explorer](https://c64grap
 
 Each image credits its author and, where known, links to its original CSDb release. Artwork is included in good faith for preservation, study, and appreciation; ownership remains with its original authors and rights holders.
 
+## Catalog
+
+`scripts/build-catalog.py` prints the collection as data: a JSON catalog listing every image newest first - its name, author, release year, CSDb link, what it is built from, where its preview is, and when it was published, which is when its folder first landed on `main`. The catalog is how the collection is presented elsewhere without being copied; the [C64 Graphics Explorer gallery](https://c64graphicsexplorer.com/gallery/) is rendered from it.
+
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
