@@ -1,0 +1,2557 @@
+{
+  "name": "Viva Las Vegas (crystal ball)",
+  "author": "Talent",
+  "released": 2026,
+  "csdb": "https://csdb.dk/release/?id=264488",
+  "layers": [
+    {
+      "file": "background.png",
+      "role": "background"
+    },
+    {
+      "file": "bitmap.png",
+      "name": "Multicolor bitmap"
+    },
+    {
+      "name": "Lightning animation",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-lightning-frame-01.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-02.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-09.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-12.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-23.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-27.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-28.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-29.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-30.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-31.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-38.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-39.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-40.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-41.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-50.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-51.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-52.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-53.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-54.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-55.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-57.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-58.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-59.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-60.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-61.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-62.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-64.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-65.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-66.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-67.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-69.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-70.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-71.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-41.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-72.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-73.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-74.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 119
+          },
+          {
+            "file": "animation-lightning-frame-75.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-76.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-77.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-78.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-79.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-80.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-81.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-82.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-83.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-84.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-85.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-86.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-87.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-88.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-89.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-90.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-91.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-92.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-93.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-94.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-95.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-96.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-97.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-98.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-99.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-100.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-101.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-60.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-62.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-102.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-103.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-104.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-105.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-106.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-107.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-108.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-71.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-109.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-110.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-51.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-111.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-112.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-113.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-114.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-115.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-58.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-116.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-117.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-23.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-118.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-119.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-88.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-67.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-120.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-121.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-122.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-123.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-124.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-125.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 120
+          },
+          {
+            "file": "animation-lightning-frame-126.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-127.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-128.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-129.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-130.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-131.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-132.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-133.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-62.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-134.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-135.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-88.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-136.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-137.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-91.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-138.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-109.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-139.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-140.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-141.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-142.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-143.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-144.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-145.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-146.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-58.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-60.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-12.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-147.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-148.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-149.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-150.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-151.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-91.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-71.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-152.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-153.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-154.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-155.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-156.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-157.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-158.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-159.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-09.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-62.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-160.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-161.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-162.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-163.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-lightning-frame-164.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-165.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-166.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-167.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-168.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-169.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-170.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 40
+          },
+          {
+            "file": "animation-lightning-frame-171.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 80
+          },
+          {
+            "file": "animation-lightning-frame-172.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-58.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-60.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-173.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-174.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-175.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-176.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-66.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-177.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-178.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-179.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-71.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-180.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-181.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-182.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-183.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-184.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-185.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-186.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-187.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-101.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-60.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-188.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-62.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-15.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-16.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-17.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-18.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-19.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-20.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-21.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-22.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-63.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-24.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-25.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-26.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-86.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-65.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-189.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-190.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-68.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-32.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-33.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-34.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-35.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-36.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-37.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-191.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-192.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-193.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-93.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-42.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-43.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-44.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-45.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-46.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-47.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-48.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-49.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-194.png",
+            "durationMs": 19
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-195.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-196.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-197.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-198.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-56.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-199.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-200.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-03.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-04.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-05.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-06.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-07.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-08.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-09.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-10.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-11.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-12.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-13.png",
+            "durationMs": 20
+          },
+          {
+            "file": "animation-lightning-frame-14.png",
+            "durationMs": 19
+          }
+        ]
+      },
+      "description": "The lightning is XOR-drawn directly into the multicolor bitmap from 56 stored frames. The drawing races the raster beam, so some frames show the old and the new bolt split across rows; the sequence plays exactly as the demo shows it."
+    },
+    {
+      "name": "Ring of fire (sprites)",
+      "role": "sprite",
+      "animation": {
+        "frames": [
+          {
+            "file": "animation-ring-of-fire-frame-00.png",
+            "durationMs": 1975
+          },
+          {
+            "file": "animation-ring-of-fire-frame-01.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-02.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-04.png",
+            "durationMs": 59
+          },
+          {
+            "file": "animation-ring-of-fire-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-06.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-07.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-11.png",
+            "durationMs": 59
+          },
+          {
+            "file": "animation-ring-of-fire-frame-00.png",
+            "durationMs": 2494
+          },
+          {
+            "file": "animation-ring-of-fire-frame-11.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-07.png",
+            "durationMs": 59
+          },
+          {
+            "file": "animation-ring-of-fire-frame-06.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-04.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-02.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-01.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-00.png",
+            "durationMs": 2493
+          },
+          {
+            "file": "animation-ring-of-fire-frame-01.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-02.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-04.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-06.png",
+            "durationMs": 59
+          },
+          {
+            "file": "animation-ring-of-fire-frame-07.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-11.png",
+            "durationMs": 60
+          },
+          {
+            "file": "animation-ring-of-fire-frame-00.png",
+            "durationMs": 2513
+          }
+        ]
+      },
+      "description": "Eight multicolor sprites sweep two arcs of flame around the rim in 11 steps of three frames, one burst every 158 frames; the middle burst of every three runs backwards."
+    },
+    {
+      "name": "Sprite markers",
+      "role": "overlay",
+      "animation": {
+        "frames": [
+          {
+            "file": "sprite-markers-frame-01.png",
+            "durationMs": 1975
+          },
+          {
+            "file": "sprite-markers-frame-02.png",
+            "durationMs": 120
+          },
+          {
+            "file": "sprite-markers-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-04.png",
+            "durationMs": 59
+          },
+          {
+            "file": "sprite-markers-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-06.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-07.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-11.png",
+            "durationMs": 59
+          },
+          {
+            "file": "sprite-markers-frame-01.png",
+            "durationMs": 2494
+          },
+          {
+            "file": "sprite-markers-frame-11.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-07.png",
+            "durationMs": 59
+          },
+          {
+            "file": "sprite-markers-frame-06.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-04.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-02.png",
+            "durationMs": 120
+          },
+          {
+            "file": "sprite-markers-frame-01.png",
+            "durationMs": 2493
+          },
+          {
+            "file": "sprite-markers-frame-02.png",
+            "durationMs": 120
+          },
+          {
+            "file": "sprite-markers-frame-03.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-04.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-05.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-06.png",
+            "durationMs": 59
+          },
+          {
+            "file": "sprite-markers-frame-07.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-08.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-09.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-10.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-11.png",
+            "durationMs": 60
+          },
+          {
+            "file": "sprite-markers-frame-01.png",
+            "durationMs": 2513
+          }
+        ]
+      }
+    }
+  ]
+}
