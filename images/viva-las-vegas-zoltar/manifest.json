@@ -15,14 +15,17 @@
     {
       "name": "Wand (multicolor bitmap)",
       "animation": {
-        "durationMs": 399,
+        "durationMs": 360,
         "frames": [
           "animation-wand-bitmap-frame-01.png",
           "animation-wand-bitmap-frame-02.png",
           "animation-wand-bitmap-frame-03.png",
           "animation-wand-bitmap-frame-04.png",
           "animation-wand-bitmap-frame-05.png",
-          "animation-wand-bitmap-frame-06.png"
+          {
+            "file": "animation-wand-bitmap-frame-06.png",
+            "durationMs": 1080
+          }
         ]
       },
       "description": "The glowing wand tip is written directly into the multicolor bitmap, in step with the wand sprites."
@@ -33,11 +36,11 @@
         "frames": [
           {
             "file": "animation-blink-frame-01.png",
-            "durationMs": 2000
+            "durationMs": 2640
           },
           {
             "file": "animation-blink-frame-02.png",
-            "durationMs": 259
+            "durationMs": 240
           }
         ]
       },
@@ -49,7 +52,7 @@
         "frames": [
           {
             "file": "animation-mouth-frame-01.png",
-            "durationMs": 2000
+            "durationMs": 1760
           },
           {
             "file": "animation-mouth-frame-02.png",
@@ -171,14 +174,17 @@
       "name": "Wand (sprites)",
       "role": "sprite",
       "animation": {
-        "durationMs": 399,
+        "durationMs": 360,
         "frames": [
           "animation-wand-sprites-frame-01.png",
           "animation-wand-sprites-frame-02.png",
           "animation-wand-sprites-frame-03.png",
           "animation-wand-sprites-frame-04.png",
           "animation-wand-sprites-frame-05.png",
-          "animation-wand-sprites-frame-06.png"
+          {
+            "file": "animation-wand-sprites-frame-06.png",
+            "durationMs": 1080
+          }
         ]
       },
       "description": "Two multicolor sprites continue the wand tip into the top border."
